@@ -1,0 +1,6 @@
+framework module EkwPlayer {
+  umbrella header "EkwPlayer.h"
+
+  export *
+  module * { export * }
+}

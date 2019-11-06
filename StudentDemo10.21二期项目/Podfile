@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'StudentDemo10.21' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'FMDB'
+  pod 'Masonry'
+  pod 'AFNetworking', '~> 3.1.0'
+  pod 'YYModel'
+  pod 'WMPageController', '~> 2.5.2'
+  pod 'MJExtension'
+  pod "SDWebImage","~> 4.0"
+
+  # Pods for StudentDemo10.21
+  
+end
